@@ -9,6 +9,9 @@
  * @since 1.0
  */
 
+echo "Test 3";
+die;
+
 /**
  * Twenty Seventeen only works in WordPress 4.7 or later.
  */
